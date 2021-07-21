@@ -1,0 +1,19 @@
+.loginBody{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+  }
+  .loginBody input{
+    border: 1px solid #000000;
+  }
+  .loginBody *{
+    padding: 5px 5px;
+  }
+  .loginBody button{
+    width: 100%;
+    text-align: center;
+  }
+  .title{
+    text-align: center;
+  }
